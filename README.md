@@ -1,4 +1,4 @@
-# 💬 WhatsApp Chat Analysis Dashboard
+# 💬Chat Analysis Dashboard
 
 ## 🔍 Project Overview
 An interactive dashboard built with **Python** and **Streamlit** to analyze personal and group WhatsApp chat exports. The tool provides insights into user activity, message patterns, and chat behavior.
